@@ -26,12 +26,14 @@ Source: DALL·E 2
     Let's create something, absolutely horrible or amazing (Whichever comes first)
 </p>
 
-<h3   align="center" style="padding-bottom: 0.5em;"> 
+<div style="padding: 1em; display: flex; flex-direction: row; align-items: center; justify-content: center;">
+    <img class="img" src="https://www.codewars.com/users/XOR_SABER/badges/large"/>
+</div>
+
+<h3 style="padding-bottom: 0.5em;"> 
     Some of the tools and languages, I like to use: 
 </h3>
-<div style="padding: 1em; display: flex; flex-direction: row; align-items: center; justify-content: center;">
-<img class="img" src="https://www.codewars.com/users/XOR_SABER/badges/large"/>
-</div>
+
 <div style="padding: 1em; display: flex; flex-direction: row; align-items: center; justify-content: center;">
     <img class="img" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>
     <img class="img" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
