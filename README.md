@@ -30,6 +30,9 @@ Source: DALL·E 2
     Some of the tools and languages, I like to use: 
 </h3>
 <div style="padding: 1em; display: flex; flex-direction: row; align-items: center; justify-content: center;">
+<img class="img" src="https://www.codewars.com/users/XOR_SABER/badges/large"/>
+</div>
+<div style="padding: 1em; display: flex; flex-direction: row; align-items: center; justify-content: center;">
     <img class="img" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>
     <img class="img" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
     <img class="img" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
