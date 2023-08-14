@@ -55,11 +55,8 @@
 </div>
 
 <hr></hr>
-
 <div align="center">
     <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XOR-SABER&theme=dark&langs_count=8&layout=compact&hide=HTML,CSS," />
-</div>
-<div align="center">
     <img class="img" src="https://streak-stats.demolab.com/?user=XOR-SABER&theme=dark" />
 </div>
   
