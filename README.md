@@ -3,18 +3,14 @@
     Hello there, 
     Welcome to my github profile 👋
 </h1>
-
-<img src="imgs/DALLE2023.png">
-Source: DALL·E 2
-</img>
 <h1>
     My name is Alexander Betancourt.
 </h1>
 <p>
-    Am a Computer Scientist with a strong interest in low-level hardware and C++. I earned my Associate's Degree in Computer Science from Clovis Community College in the fall of 2022 and reinforced my skills with an Associate's Degree in Web Development from Fresno City College in the spring of 2023. Tutored, C++, Python, Java, and Web development at Fresno City College and Reedley College for 2 Years.
+    Am a Computer Scientist with a strong interest in low-level hardware and C++. Tutored, C++, Python, Java, and Web development at Fresno City College's Math Center and Reedley College's Math Center for 3 Years. Am currently at CSU Monterey bay, as a Computer Science Student.
 </p>
 <p>
-    C++ is my primary programming language and I am passionate about game development and computer graphics.
+    C++ is my primary programming language and I am passionate about game development, computer graphics, and some of the more technical stuff like algorithms and data structures.
 </p>
 <p>
     When I am not coding, you can find me exploring and lurking the depths of the internet, or tinkering with hardware.
@@ -26,10 +22,19 @@ Source: DALL·E 2
     Let's create something, absolutely horrible or amazing (Whichever comes first)
 </p>
 
-<h3   align="center" style="padding-bottom: 0.5em;"> 
+<h2>
+    Here's some of the degrees and certs I picked up along the way:
+</h2>
+<ul>
+    <li>AS Computer Science: Fall 2022 Clovis Community College</li>
+    <li>AS Computer Information Technology - Web Developer: Spring 2023 Fresno City College</li>
+    <li>CA Computer Information Technology - Web Developer: Spring 2023 Fresno City College</li>
+    <li>CA Computer Information Technology - Webpage Development: Summer 2023 Fresno City College</li>
+</ul>
+<h2 align="center"> 
     Some of the tools and languages, I like to use: 
-</h3>
-<div style="padding: 1em; display: flex; flex-direction: row; align-items: center; justify-content: center;">
+</h2>
+<div align="center">
     <img class="img" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>
     <img class="img" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
     <img class="img" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -51,10 +56,10 @@ Source: DALL·E 2
 
 <hr></hr>
 
-<div style="padding: 1em; display: flex; flex-direction: row; align-items: center; justify-content: center;">
+<div align="center">
     <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XOR-SABER&theme=dark&langs_count=8&layout=compact&hide=HTML,CSS," />
 </div>
-<div style="padding: 1em; display: flex; flex-direction: row; align-items: center; justify-content: center;">
+<div align="center">
     <img class="img" src="https://streak-stats.demolab.com/?user=XOR-SABER&theme=dark" />
 </div>
   
