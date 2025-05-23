@@ -2,6 +2,7 @@
 
 ## Degrees, Certifications, and Education:
 - BS Computer Science: Spring 2025: California State university, Monterey Bay
+- CA Codepath - IOS Development: Spring 2025: California State university, Monterey Bay
 - CA Computer Information Technology - Webpage Development: Summer 2023: Fresno City College
 - CA Computer Information Technology - Web Developer: Spring 2023: Fresno City College
 - AS Computer Information Technology - Web Developer: Spring 2023: Fresno City College
